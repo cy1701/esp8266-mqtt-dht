@@ -1,6 +1,9 @@
 #include <DHT.h>
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
+#include <Base64.h>
+#include <OneWire.h>
+#include <DallasTemperature.h>
 #include<stdlib.h>
 #define wifi_ssid "YOUR WIFI SSID"
 #define wifi_password "WIFI PASSWORD"
