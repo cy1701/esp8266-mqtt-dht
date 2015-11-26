@@ -6,7 +6,8 @@ Paul's article was very helpful.
 
 here are my mods. hope they help someone.
 
-![Hookup](https://goo.gl/photos/85ZiuxQ6Vupvsh6p9 "Hookup")
+Fritzing hookup drawing    https://goo.gl/photos/85ZiuxQ6Vupvsh6p9
+
 
 
 
